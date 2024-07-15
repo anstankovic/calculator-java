@@ -1,0 +1,8 @@
+Infinity/Infinity izbacuje vrednost NaN
+0/0 NaN
+0/-Inifinity ERROR
+Infinity/-Infinity ERROR
+-Inifinity*Inifinity izbacuje vrednost ERROR, ali za +Infinity*Infinity izbacuje vrednostInfinity
+4/0 izbacuje vrednost Infinity, ali kad treba da radi razliku -5/0+4/0 izbacuje vrednost NaN isto kada se promeni raspored 4/0-5/0 NaN
+Infinity-Infinity izbacuje vrednost NaN
++Inifnity+Infinity izbacuje vrednost ERROR
